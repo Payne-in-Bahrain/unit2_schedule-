@@ -18,6 +18,6 @@
 | Mon  | [Embedding Related Data](https://github.com/Payne-in-Bahrain/u2_lessons_embedding_related_data), Project 2 and Group Intro | [Planet Builder Pt 2](https://github.com/Payne-in-Bahrain/u2_homework_Mongoose_Planet_Builder_Pt_2), Begin working on Project Proposal |
 | Tues | [Referencing Related Data](https://github.com/Payne-in-Bahrain/u2_lessons_referencing_related_data) | [Planet Builder Pt 3](https://github.com/Payne-in-Bahrain/u2_homework_Mongoose_Planet_Builder_Pt_3) |
 | Wed  | [Authentication with Google OAuth](https://github.com/Payne-in-Bahrain/u2_lessons_oauth_authentication)| Finish Project Proposal                       |
-| Thurs| Git Team Workflow, Project Proposals, Project Time | Project 2                                    |
+| Thurs| [Git Team Workflow](https://github.com/Payne-in-Bahrain/git-workflow-), Project Proposals, Project Time | Project 2                                    |
 
 
